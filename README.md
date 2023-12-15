@@ -4,13 +4,6 @@ Yews news app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A news application is a big interactive database that tells a news story. Think of it like you would any other piece of journalism. It just uses software instead of words and pictures.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Yews news App!!!](C:/Users/Bele/Downloads/video_2023-12-14_13-28-53 (online-video-cutter.com)/video_2023-12-14_13-28-53 (online-video-cutter.com).gif)
