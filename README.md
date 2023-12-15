@@ -1,6 +1,4 @@
-# yews_news
-
-Yews news app
+# Yews news app
 
 ## Getting Started
 
